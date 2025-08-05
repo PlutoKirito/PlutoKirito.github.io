@@ -1,2 +1,4 @@
 # PlutoKirito.github.io
-Here is personal website of Jiaxin Chen. (Minimalism Style) Powered by Jekyll, based on the Minimal Mistakes theme and Hanlin Cai's website.
+Here is **Jiaxin Chen (陈嘉鑫)**. 
+
+This is the repository for my personal website.
