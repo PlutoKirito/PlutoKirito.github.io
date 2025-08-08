@@ -5,22 +5,16 @@ title: Awards
 ---
 
 ## 💸 Scholarships
+- **Oct 2024**:  Undergraduate Scholarship for Outstanding Students - Wuhan University(¥1000)
+- **Oct 2024**: Open Geospatial Engine Project Merit Scholarship(¥5000)<br>Sponsored by [State Key Laboratory of Surveying and Mapping Remote Sensing Information Engineering](https://liesmars.whu.edu.cn/index.htm), [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/index.htm) Joint [Wuhan University Student Engineering Training and Innovation Practice Center](https://gc.whu.edu.cn/) and [National Experimental Teaching Demonstration Center of Remote Sensing Information Engineering](https://rsgislab.whu.edu.cn/rsgislab/) for outstanding performance
 
-<!-- - **May 2025**: **Cambridge CSC Trust Scholarship** (£190,000 total for tuition waiver and stipend)<br>Joint funding from Cambridge Trust and China Scholarship Council for PhD studies
-- **June 2024**: **KDD-24 Undergraduate Scholarship** ($1,000)<br>Only 21 undergraduates selected worldwide
-- **Dec 2023**: **AAAI-24 Undergraduate Scholarship** ($5,000)<br>Only 18 undergraduates selected worldwide, recognized as Outstanding Undergraduate
-- **Aug 2023**: **Innovation Scholarship** ($1,400)<br>One of the highest undergraduate awards at Fuzhou University
-- **May 2023**: **XiamenAir Scholarship** ($600)<br>Sponsored by Xiamen Airlines for outstanding academic performance
-- **June 2024**: **Best Final Year Project Award** - Maynooth University (€500)
-- **Oct 2023**: **Best Academic Performance Award** - Maynooth University (€100)  
-- **Oct 2022**: **Best Course Project Award** - Maynooth University (€100)
-- **2021-2024**: **First Prize Scholarship of MIEC** ($2,100 × 5 times)<br>Combined degree scholarship between Fuzhou University and Maynooth University -->
+
 
 ## 🎖️ Competitions
 Participated as Project **Leader/Team Captain** in the following competitions:
-<!-- - Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**Best Technology Award** in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize in China Undergraduate Mathematical Contest in Modeling
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University -->
+
+- Jul 2025：Excellent results in the 24th **ROBOCON**(Asia-Pacific Broadcasting Union Robot Contest)<br>Second prize in “ROBOT BASKETBALL”Basketball Match; **Omnipotence Award、Championship** and First prize of “ROBOT BASKETBALL” Basketball Skills Competition(including Shooting Skills Competition and Dribbling (Passing) Skills Competition); Third prize in the Speed, Obstacle and Cross-Country races of The Bionic Foot Robot Challenge;**Robotics Basketball Best Intelligence Award & MAMMOTION Singular  Award(Only)**
+- Jul 2025：Second prize in the 17th China Electrical Engineering Society Cup(Top 10%, done solo)
+- May 2025：First prize in the 17th Huazhong Cup University Student Mathematical Modeling Challenge (Top 5%, done solo)
+- May 2025：Meritorious Award in Mathematical Contest In Modeling (Top 5%)
+- Apr 2025：First prize in Cloud Computing Track of the 9th Huawei ICT Competition Practice Race(Top 1%)

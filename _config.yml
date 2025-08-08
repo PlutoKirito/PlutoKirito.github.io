@@ -14,10 +14,10 @@ url: https://PlutoKirito.github.io
 # --------------------------------------------------
 owner:
   name: Jiaxin Chen
-  avatar: hanlin.jpg
+  avatar: Nayuta.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: kiritojiaxin@gmail.com
-  cv: https://PlutoKirito.github.io/file/CV-JiaxinChen.pdf
+  cv: https://PlutoKirito.github.io/file/CV-JiaxinChen(2024).pdf
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -26,7 +26,7 @@ owner:
   # linkedin: hanlincai
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  # zhihu: https://www.zhihu.com/people/chlire
+  zhihu: https://www.zhihu.com/people/ming-ri-si-xi-wang
   # xiaohongshu: 5c27848f0000000005030c6f
   bilibili: 350593040
   # facebook: caihanlin2002
@@ -56,8 +56,8 @@ links:
     url: /awards/
   # - title: Hobbies
   #   url: /hobbies/
-  # - title: Blogs
-  #   url: /blogs/
+  - title: Blogs
+    url: /blogs/
   - title: 中文
     url: /cn/
 
