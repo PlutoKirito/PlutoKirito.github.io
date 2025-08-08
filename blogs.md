@@ -10,11 +10,11 @@ title: Blogs
 
 ## Leave a Message 欢迎留言
 
-<br>
+<!-- <br>
 
 {% include disqus.html %} 
 
-<br>
+<br> -->
 
 ## Web Star History 点赞记录
 

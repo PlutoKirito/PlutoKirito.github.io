@@ -8,7 +8,7 @@ title: Visitors
 
 <br>
 
-{% include disqus.html %} 
+<!-- {% include disqus.html %}  -->
 
 <br>
 

@@ -37,10 +37,10 @@ My current research interests focus on:
 - **July 2025**: Started visiting research at Westlake University under Prof. Donglin Wang's supervision.
 
 
----
+<!-- ---
 
 ## 🏆 Selected Honors and Awards
-<!-- - **Cambridge CSC Trust Scholarship** (2025) - £190,000 for tuition waiver and stipend
+- **Cambridge CSC Trust Scholarship** (2025) - £190,000 for tuition waiver and stipend
 - **AAAI Outstanding Undergraduate Scholar** (2024) - Only 15 students selected globally  
 - **KDD Undergraduate Scholar** (2024) - Only 21 students selected worldwide
 - **Best Technology Award** - National Youth Science Innovation Project Competition (2023)
