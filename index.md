@@ -8,7 +8,7 @@ layout: page
 
 Here is **Jiaxin Chen (陈嘉鑫)**. <br>
 
-I am currently pursuing my Bachelor's degree in Remote Sensing Science and Technology at Wuhan University, with research interests in Robotics. Born in 2005 in Chengdu, Sichuan Province, China.
+I am currently pursuing my Bachelor's degree in Remote Sensing Science and Technology at Wuhan University, with research interests in Robotics. 
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **kiritojiaxin [AT] gmail [DOT] com** or WeChat: **cjx828807**
 
@@ -34,8 +34,7 @@ My current research interests focus on:
 ## 📰 News and Updates
 
 - **July 2025**: Created this personal homepage for better self-introduction and academic communication.
-- **July 2025**: Started visiting research at Westlake University under Prof. Donglin Wang's supervision.
-
+- **July 2025**: Started visiting research at Westlake University under Prof. [Donglin Wang](https://milab.westlake.edu.cn/)'s supervision.
 
 <!-- ---
 
