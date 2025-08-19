@@ -6,7 +6,7 @@ title: 主页中文版
 
 ## 关于我
 
-<img src="https://PlutoKirito.github.io/backup/chenjiaxin.JPG" class="floatpic">
+<img src="https://PlutoKirito.github.io/chenjiaxin.jpg" class="floatpic">
 
 <br>首先感谢您的阅读。我是陈嘉鑫，2005年生，四川成都人。
 

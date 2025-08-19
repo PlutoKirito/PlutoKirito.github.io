@@ -38,8 +38,8 @@ My current research interests focus on:
 - **July 2025**: Following extensive year-long preparations, exceptional achievements were attained in [ROBOCON](http://robocon.org.cn/sys-index/) .
 - **November 2024**: Sponsored by the Open Geospatial Engine Project and motivated by personal interest, attendance was achieved at the  [2024 Autonomous Robotic Technology Seminar (ARTS)](https://www.roboarts.cn/).
 - **October 2023**: Sponsored by [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/index.htm), attendance was accomplished at [the 2nd International Symposium on Advanced Remote Sensing and Wuhan Remote Sensing Week 2023](https://rsw2023.aconf.org/).
-<!-- ---
 
+<!-- ---
 ## 🏆 Selected Honors and Awards
 - **Cambridge CSC Trust Scholarship** (2025) - £190,000 for tuition waiver and stipend
 - **AAAI Outstanding Undergraduate Scholar** (2024) - Only 15 students selected globally  
