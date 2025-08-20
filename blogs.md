@@ -10,6 +10,7 @@ title: Blogs
 
 ## Leave a Message 欢迎留言
 
+### Coming Soon~
 <!-- <br>
 
 {% include disqus.html %} 
@@ -22,6 +23,7 @@ title: Blogs
 - [Leave a github star if you like it 🥰 Thank you so much!](https://github.com/PlutoKirito/PlutoKirito.github.io) 
 
 <br>
+
 <!-- [![Star History Chart](https://api.star-history.com/svg?repos=PlutoKirito/PlutoKirito.github.io&type=Date)](https://star-history.com/#PlutoKirito/PlutoKirito.github.io&Date) -->
 
 Finally, my WeChat account - cjx828807
