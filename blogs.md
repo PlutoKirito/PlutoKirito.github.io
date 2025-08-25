@@ -24,7 +24,7 @@ title: Blogs
 
 <br>
 
-<!-- [![Star History Chart](https://api.star-history.com/svg?repos=PlutoKirito/PlutoKirito.github.io&type=Date)](https://star-history.com/#PlutoKirito/PlutoKirito.github.io&Date) -->
+<!-- [![Star History Chart](https://api.star-history.com/svg?repos=PlutoKirito/PlutoKirito.github.io&type=Date)](https://star-history.com/#PlutoKirito/PlutoKirito.github.io&Date)-->
 
 Finally, my WeChat account - cjx828807
 
