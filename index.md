@@ -19,7 +19,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - **Wuhan University**<br>*B.S. in Remote Sensing Science and Technology* <br>*Sep. 2023 - Present, Wuhan, China*<br>
 
 #### Research Experience
-- **Westlake University**<br>*Visiting Student, supervised by Prof. [Donglin Wang](https://milab.westlake.edu.cn/)*<br>*Jul. 2025 – Oct. 2025, Hangzhou, China*
+- **Westlake University**<br>*Visiting Student, supervised by Prof. [Donglin Wang](https://milab.westlake.edu.cn/)*<br>*Jul. 2025 – Sep. 2025, Hangzhou, China*
 
 ## 🔍 Research Interests
 **<font color="#33c8d2ff">I am looking forward to learning from scholars in different fields around the world. If you are interested in my research, please contact me!</font>**
