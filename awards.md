@@ -5,6 +5,7 @@ title: Awards
 ---
 
 ## 💸 Scholarships
+- **Sep 2025**:  Undergraduate Scholarship for Outstanding Students - Wuhan University(¥3000)
 - **Oct 2024**:  Undergraduate Scholarship for Outstanding Students - Wuhan University(¥1000)
 - **Oct 2024**: Open Geospatial Engine Project Merit Scholarship(¥5000)<br>Sponsored by [State Key Laboratory of Surveying and Mapping Remote Sensing Information Engineering](https://liesmars.whu.edu.cn/index.htm), [School of Remote Sensing and Information Engineering](https://rsgis.whu.edu.cn/index.htm) Joint [Wuhan University Student Engineering Training and Innovation Practice Center](https://gc.whu.edu.cn/) and [National Experimental Teaching Demonstration Center of Remote Sensing Information Engineering](https://rsgislab.whu.edu.cn/rsgislab/) for outstanding performance
 
