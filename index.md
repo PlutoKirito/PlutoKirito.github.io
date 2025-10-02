@@ -10,7 +10,7 @@ Here is **Jiaxin Chen (陈嘉鑫)**. <br>
 
 I am currently pursuing my Bachelor's degree in Remote Sensing Science and Technology at Wuhan University, with research interests in Robotics. 
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **kiritojiaxin [AT] gmail [DOT] com** or WeChat: **cjx828807**
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **kiritojiaxin [AT] whu [DOT] edu [DOT] cn** or WeChat: **cjx828807**
 
 ---
 ## Education and Experience
