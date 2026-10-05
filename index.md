@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://PlutoKirito.github.io/chenjiaxin.jpg" class="floatpic">
+<img src="https://PlutoKirito.github.io/portrait.png" class="floatpic">
 
 Here is **Jiaxin Chen (陈嘉鑫)**. <br>
 
@@ -17,8 +17,10 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 #### Education
 - **Wuhan University**<br>*B.S. in Remote Sensing Science and Technology* <br>*Sep. 2023 - Present, Wuhan, China*<br>
+- **Zhejiang University**<br>*M.Eng. in Electronic Information, Polytechnic Institute* <br>*Incoming, Hangzhou, China*<br>
 
 #### Research Experience
+- **Wuhan University**<br>*Intern, supervised by Prof. [Zhenzhong Chen](https://jszy.whu.edu.cn/zzchen)*<br>*Feb. 2026 – Sep. 2026, Wuhan, China*
 - **Westlake University**<br>*Visiting Student, supervised by Prof. [Donglin Wang](https://milab.westlake.edu.cn/)*<br>*Jul. 2025 – Sep. 2025, Hangzhou, China*
 
 ## 🔍 Research Interests
