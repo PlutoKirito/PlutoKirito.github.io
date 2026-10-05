@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://PlutoKirito.github.io/portrait.png" class="floatpic">
+<img src="https://PlutoKirito.github.io/images/portrait.png" class="floatpic">
 
 Here is **Jiaxin Chen (陈嘉鑫)**. <br>
 
